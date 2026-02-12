@@ -6,7 +6,7 @@ class solution:
 class dog:
     def create_dog(self):
         print("create dog")
-        
+
 # execution class
 class execution:
     sol = solution()
